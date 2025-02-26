@@ -10,7 +10,7 @@
 
 [EX01-04 終極密碼](https://github.com/Fis428/PC03/blob/main/EX01_04_%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC.ipynb)
 
-EX01-05 Caesar Cipher: Encode and decode
+[EX01-05 Caesar Cipher: Encode and decode](https://github.com/Fis428/PC03/blob/main/%E3%80%8CEX01_05_Caesar_Cipher_Encode_and_decode_ipynb%E3%80%8D.ipynb)
 
 EX01-06 簡易購物車
 
