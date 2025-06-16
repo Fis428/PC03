@@ -18,7 +18,7 @@
 
 ## 02 Web Crawler
 
-[EX02-01 My Chatbot]()
+[EX02-01 My Chatbot](https://github.com/Fis428/PC03/blob/main/EX02_01_My_Chatbot.ipynb)
 
 [EX02-02 高雄紅橘線捷運車站位置查詢](https://github.com/Fis428/PC03/blob/main/EX02_02_%E9%AB%98%E9%9B%84%E7%B4%85%E6%A9%98%E7%B7%9A%E6%8D%B7%E9%81%8B%E8%BB%8A%E7%AB%99%E4%BD%8D%E7%BD%AE%E6%9F%A5%E8%A9%A2.ipynb)
 
@@ -48,9 +48,9 @@
 
 [EX03-06 出生人口數](https://github.com/Fis428/PC03/blob/main/EX03_06_%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%95%B8.ipynb)
 
-[EX03-07 Tips]()
+[EX03-07 Tips](https://github.com/Fis428/PC03/blob/main/EX03_07_Tips.ipynb)
 
-[HW03 作業]()
+[HW03 作業](https://github.com/Fis428/PC03/blob/main/HW03.ipynb)
 ## 04 Machine Learning
 
 [EX04-01 汽車車型數值資料轉換](https://github.com/Fis428/PC03/blob/main/EX04_01_%E6%B1%BD%E8%BB%8A%E8%BB%8A%E5%9E%8B%E6%95%B8%E5%80%BC%E8%B3%87%E6%96%99%E8%BD%89%E6%8F%9B.ipynb)
@@ -59,10 +59,21 @@
 
 [EX04-03 客戶分群](https://github.com/Fis428/PC03/blob/main/EX04_03_%E5%AE%A2%E6%88%B6%E5%88%86%E7%BE%A4ipynb.ipynb)
 
-[EX04-04 加州房價]()
+[EX04-04 加州房價](https://github.com/Fis428/PC03/blob/main/EX04_04_%E5%8A%A0%E5%B7%9E%E6%88%BF%E5%83%B9.ipynb)
 
-[EX04-05 辨識鳶尾花]()
+[EX04-05 辨識鳶尾花](https://github.com/Fis428/PC03/blob/main/EX04_05_%E8%BE%A8%E8%AD%98%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
 
 [EX04-06 ET Today 新聞標題分類](https://github.com/Fis428/PC03/blob/main/EX04_06_ET_Today_%E6%96%B0%E8%81%9E%E6%A8%99%E9%A1%8C%E5%88%86%E9%A1%9E.ipynb)
+
 ## 05 Web API
+
+[EX05-01 Echo Bot](https://github.com/Fis428/PC03/blob/main/EX05_01_Echo_Bot.ipynb)
+
+[EX05-02 Ask Gemini](https://github.com/Fis428/PC03/blob/main/EX05_02_Ask_Gemini.ipynb)
+
+[EX05-03 Reply Multi-type Messages](https://github.com/Fis428/PC03/blob/main/EX05_03_Reply_Multi_type_Messages.ipynb)
+
+[EX05-04 Reply Template Messages](https://github.com/Fis428/PC03/blob/main/EX05_04_Reply_Template_Messages.ipynb)
+
+[Web API 報告](https://github.com/Fis428/PC03/blob/main/LINE_Bot_CoffeeAid_%E5%92%96%E5%95%A1%E7%9F%A5%E8%AD%98%E8%AB%AE%E8%A9%A2%E6%A9%9F%E5%99%A8%E4%BA%BA.ipynb)
 ## 06 Web System
